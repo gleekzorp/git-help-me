@@ -112,10 +112,11 @@ A team member will review your changes, please keep an eye out for any requested
     ```
     $ git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
     ```
-
+    $git checkout main
 2. Sync your fork
     > You need to do this after each successful merge
     ```
+     $git checkout main  
     $ git fetch upstream
     $ git checkout master
     $ git merge upstream/master
