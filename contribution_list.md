@@ -2,5 +2,8 @@
 
 > Please add your name below to be added to the list of awesome people that have helped with this code.
 
+
 - [Matthew Ricklefs](https://github.com/matthewricklefs)
+- [Ciantera Rose](https://github.com/Ciantera-Rose)
+- [Jacob Mason](github.com/JacobMason83)
 
