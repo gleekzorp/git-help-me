@@ -6,4 +6,5 @@
 - [Matthew Ricklefs](https://github.com/matthewricklefs)
 - [Ciantera Rose](https://github.com/Ciantera-Rose)
 - [Jacob Mason](github.com/JacobMason83)
+- [Braden Bird](github.com/bradenslsb)
 
