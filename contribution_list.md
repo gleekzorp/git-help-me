@@ -4,11 +4,12 @@
 
 [hadi chloun](https://github.com/hadichloun)
 
+<!-- Added a menu list -->
+
 <h1 class="quicksand-font header text-uppercase">Our Menu</h1>
       <!-- <hr> -->
     </div>
   </div>
-    
       <h4 class="text-center quicksand-font text-uppercase">Bread Basket</h4>
       <p class="text-uppercase">Assortment of fresh baked fruit breads and muffins 5.50</p>
       <h4 class="text-center quicksand-font text-uppercase">Honey Almond Granola with Fruits</h4>
