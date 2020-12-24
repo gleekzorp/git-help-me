@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+
+}
+.navigation-wrapper {
+    height: 22px;
+    padding: 16px 8px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 3px 2px -2px gray;
+}
+.link {
+    padding: 8px 16px;
+    width: auto;
+    border: none;
+    outline: 0;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+}
+.link:hover {
+    padding: 8px 16px;
+    width: auto;
+    border: none;
+    outline: 0;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+    background-color: lightgrey;
+}
