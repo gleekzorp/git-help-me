@@ -1,11 +1,14 @@
 body {
     margin: 0px;
+    font-family: "Times New Roman", Georgia, Serif;
 
 }
 .navigation-wrapper {
     height: 22px;
+    width: 100%;
     padding: 16px 8px;
     background-color: #ffffff;
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -33,4 +36,11 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     letter-spacing: 4px;
     background-color: lightgrey;
+}
+.header-pic {
+    background-image: url("./IMGS/hamburger.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    align-items: center;
 }
